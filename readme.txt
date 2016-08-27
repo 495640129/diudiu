@@ -8,3 +8,4 @@ Git has a mutable index called stage.
 
 
 git clone git@github.com:495640129/diudiu.git
+Creating a new branch is quick & simple.
